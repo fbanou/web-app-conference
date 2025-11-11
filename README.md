@@ -19,5 +19,5 @@ A **conference web app** designed to manage conferences, paper submissions, and 
 
 - **Frontend**: React.js  
 - **Backend**: Node.js / Express  
-- **Database**: MongoDB  
-- **Other Libraries**: Mongoose, JWT for authentication
+- **Database**: MySQL
+- **Other Libraries**: JWT for authentication
