@@ -1,6 +1,6 @@
 # 🗓️ Conference Web App
 
-A **conference web app** designed to manage conferences, paper submissions, and reviewers. This platform allows conference organizers to efficiently handle the entire conference, from paper submissions to reviewer assignments.
+A **conference web app** designed to manage conferences, paper submissions and reviewers. This platform allows conference organizers to efficiently handle the entire conference, from paper submissions to reviewer assignments.
 
 ---
 
